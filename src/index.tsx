@@ -9,6 +9,8 @@ import persistStore from "redux-persist/es/persistStore";
 import { PersistGate } from "redux-persist/integration/react";
 import { Provider } from "react-redux";
 
+// import "./static/css/styles.css";
+
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );

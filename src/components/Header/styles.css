@@ -1,0 +1,15 @@
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  width: 100%;
+}
+ .action-button{
+  width: 45% !important;
+}
+
+.navbar{
+  padding: 9px;
+  border-bottom: solid 1px #666 !important;
+}

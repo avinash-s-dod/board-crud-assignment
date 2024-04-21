@@ -1,0 +1,10 @@
+.main-container {
+    padding: 20px 10px;
+    width: 100%;
+}
+
+.main-container .column-contaner{
+    background-color: #f4f7fd;
+    border-radius: 6px;
+    padding: 10px;
+}
