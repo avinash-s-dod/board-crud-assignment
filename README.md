@@ -50,6 +50,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Project Structure
 
+```
 board-crud-assignment
 |
 ├─ .gitignore
@@ -109,7 +110,5 @@ board-crud-assignment
 │ └─ utils
 │ └─ helperFunctions.ts
 └─ tsconfig.json
-
-```
 
 ```
